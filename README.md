@@ -293,6 +293,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yozan21&show_icons=true&locale=en&layout=compact" alt="yozan21" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=yozan21&show_icons=true&locale=en&layout=compact" alt="yozan21" /></p>
 
 
