@@ -295,7 +295,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yozan21&show_icons=true&locale=en&layout=compact" alt="yozan21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yozan21&show_icons=true&locale=en" alt="yozan21" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yozan21&theme=gotham" alt="GitHub Streak" /></a>
 
