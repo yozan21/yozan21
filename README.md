@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yozan21&label=Profile%20views&color=0e75b6&style=flat" alt="yozan21" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yozan21&theme=onedark" alt="yozan21" /></a> </p>
 
-- 🌱 I’m currently learning **REACT, NEXT.JS, NODE.JS, REMIX, etc**
+- 🌱 I’m proficient in **REACT, NEXT.JS, NODE.JS, REMIX, PYTHON, FLUTTER etc**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **NODEJS**
 
-- 📫 How to reach me **yojankaphle80@gmail.com**
+- 📫 How to reach me **yojankaphle.01@gmail.com**
 
 - ⚡ Fun fact **If you wanna get bored then I'm not the one you're looking for 🙃**
 
